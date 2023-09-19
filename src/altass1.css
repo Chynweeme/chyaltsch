@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.active{
+    font-weight: bold;
+}
+
+tr > td{
+    padding: 20px;
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
+}

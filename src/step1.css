@@ -1,0 +1,17 @@
+section{
+    height: 80%;
+    /* margin-top: 20%; */
+}
+
+.stage-1-wrapper{
+    width: 80%;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 400px;
+}
+
+.sidebar{
+    height: 90%;
+    background-color:rgb(155, 65, 238) ;
+}
